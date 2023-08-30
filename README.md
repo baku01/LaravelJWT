@@ -1,5 +1,5 @@
 # LaravelJWT
-Projeto em Laravel, usando Dokcer,Nginx,Mysql e Redis
+Projeto em Laravel, usando Docker,Nginx,Mysql e Redis
 
 [*] FIX MEMMORY LEAK MYSQL:5.7.22
 
