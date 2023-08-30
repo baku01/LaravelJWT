@@ -16,7 +16,7 @@ git clone https://github.com/laravel/laravel.git app-laravel
 
 Copie os arquivos docker-compose.yml, Dockerfile e o diretório docker/ para o seu projeto (opcional)
 ```sh
-cp -rf setup-docker-laravel/* app-laravel/
+cp -rf LaravelJWT/* app-laravel/
 ```
 ```sh
 cd app-laravel/
